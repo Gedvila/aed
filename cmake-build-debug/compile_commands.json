@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/yamigedvila/Codes/Studies/C/aed/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -O2 -fopenmp -o CMakeFiles/main.dir/main.c.o -c /home/yamigedvila/Codes/Studies/C/aed/main.c",
+  "file": "/home/yamigedvila/Codes/Studies/C/aed/main.c",
+  "output": "/home/yamigedvila/Codes/Studies/C/aed/cmake-build-debug/CMakeFiles/main.dir/main.c.o"
+}
+]
