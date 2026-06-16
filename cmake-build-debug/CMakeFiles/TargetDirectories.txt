@@ -1,3 +1,0 @@
-/home/yamigedvila/Codes/Studies/C/aed/cmake-build-debug/CMakeFiles/main.dir
-/home/yamigedvila/Codes/Studies/C/aed/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yamigedvila/Codes/Studies/C/aed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
